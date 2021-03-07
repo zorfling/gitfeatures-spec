@@ -1,18 +1,91 @@
-- key: H501Q5iGNixIFCJ8KT1qF
+- key: Xhn9Hs_Qqw2nDTpDEcy-5
   type: folder
-  title: It's a new project!
+  title: GitFeatures 💡
   expanded: true
-  tags:
-    - type: text
-      name: home
   children:
-    - key: LrdXbESrshhHOXWhgehhU
-      type: feature
-      title: I want to do stuff
+    - key: m32ynIuVMOOdkGeI-WVIn
+      type: folder
+      title: Specification By Example 🎓
       expanded: true
       children:
-        - key: k-N0EpPUb9EXi-GeeP2Pi
-          type: map
-          title: I made A thing!
+        - key: fCRXKhxQU0B2FFk0iU0Hs
+          type: feature
+          title: Living Specification 📖
           expanded: true
-          children: []
+          children:
+            - key: _KRDN_neFPkq3HszWvp2U
+              type: map
+              title: Working as a developer
+              expanded: true
+              tags:
+                - type: text
+                  name: Pain
+                - type: text
+                  name: GitFeatures FTW
+              children: []
+        - key: qe3REF0C6RxYA9WAeffLC
+          type: feature
+          title: Example Mapping 🧭
+          expanded: true
+          children:
+            - key: em-feature-discovery
+              type: map
+              title: Creating an Example Map
+              expanded: true
+              tags:
+                - type: text
+                  name: 🤓 Roland Quast
+                - type: text
+                  name: ⏲ Thu, Mar 4 - 2:19 PM
+        - key: uz1NLo4n4xpgJTQOA437S
+          type: feature
+          title: Acceptance Criteria ✅
+          expanded: true
+        - key: _ol9rGTYEwIMYjkEaMYgV
+          type: feature
+          title: Persistence
+          expanded: true
+          children:
+            - key: 90nANIG6Sl5nRgTT_GhEH
+              type: map
+              title: Files Saved in Browser
+              expanded: true
+              children: []
+            - key: C6WuaofrPsXTpPHIE0k6V
+              type: map
+              title: Files Saved in Repo
+              expanded: true
+              children: []
+        - key: ZhrouGBPgRenet4_rlSVM
+          type: feature
+          title: Sketching Component
+          expanded: true
+          children:
+            - key: O3hs3FRJt-F4IE5KysJVR
+              type: map
+              title: SVG renderer
+              expanded: true
+              children: []
+            - key: WA-wN8ieMpNHTt6IUsJ3u
+              type: map
+              title: React Sketch Canvas
+              expanded: true
+              children: []
+    - key: haJ9g0-7HpgDN0L-dVn8f
+      type: folder
+      title: CI/CD 🚚
+      expanded: true
+      children:
+        - key: JRnUR9lKrAmIl2RjmkLEu
+          type: feature
+          title: Feature Toggles ⚡
+          expanded: true
+    - key: jJDhSsPNt50n3Cov45i89
+      type: folder
+      title: Continuous Improvement 📈
+      expanded: true
+      children:
+        - key: qPA4DRmk3LhxJ95akl0Sb
+          type: feature
+          title: Feedback Loops ➰
+          expanded: true
