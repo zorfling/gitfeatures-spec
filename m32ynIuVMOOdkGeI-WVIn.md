@@ -10,7 +10,7 @@ agile-dilbert.png
 erDiagram
     CAR ||--o{ NAMED-DRIVER : allows
     CAR {
-        string registrationNumber
+        string rego
         string make
         string model
     }
@@ -27,8 +27,8 @@ The following diagram is an example of using Mermaid.
 ```mermaid
 sequenceDiagram
 A->> B: Query 😆
-B->> C: Forward query
-Note right of C: Thinking...
+B->> C: Forward querying
+Note right of C: Thinking... Your problem is very important to us
 C->> B: Response
 B->> A: Forward response
 ```
