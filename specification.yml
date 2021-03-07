@@ -10,4 +10,9 @@
       type: feature
       title: I want to do stuff
       expanded: true
-      children: []
+      children:
+        - key: k-N0EpPUb9EXi-GeeP2Pi
+          type: map
+          title: I made A thing!
+          expanded: true
+          children: []
